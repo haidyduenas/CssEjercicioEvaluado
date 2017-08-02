@@ -1,0 +1,53 @@
+body { 
+	background-position: center;
+    background: white; 
+}
+
+
+h1, h2, h3{
+	font-family: 'Zilla Slab Highlight', cursive;
+    text-align: center;
+}
+.participation {
+	background-attachment: green; 
+}
+
+p {
+	font-family: 'Lemonada', cursive;
+	background-position: center;
+}
+
+.summary {
+	background-color:#7FFFD4;
+	margin:black; 
+}
+
+.preamble{
+	background-color: #98FB98;
+}
+
+.explanation {
+	background-color: #87CEFA
+}
+
+.participation {
+	background-color: #FFE4C4; 
+}
+
+.benefits {
+	background-color: #FFF5EE;
+}
+
+.requirements {
+	background-color: 	#E0FFFF; 
+}
+
+.sidebar {
+	background-color: #DCDCDC;
+	text-align: left;
+
+}
+
+.select, .archives, .resources {
+	text-align: left;
+}
