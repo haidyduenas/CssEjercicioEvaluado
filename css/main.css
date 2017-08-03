@@ -1,6 +1,14 @@
 body { 
 	background-position: center;
-    background: white; 
+    background: white;
+    top : 0;
+	left: 0;
+	width: 80%;
+	height: 90px;
+	z-index: 1000;
+	margin-top: 0;
+	padding-top: 0px;
+	padding-left: 150px;
 }
 
 
@@ -8,13 +16,18 @@ h1, h2, h3{
 	font-family: 'Zilla Slab Highlight', cursive;
     text-align: center;
 }
-.participation {
-	background-attachment: green; 
-}
+
 
 p {
 	font-family: 'Lemonada', cursive;
 	background-position: center;
+}
+
+div div : hover {
+	background-color: #C86E5B;
+}
+.participation{
+	background-color: blue; 
 }
 
 .summary {
